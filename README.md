@@ -10,4 +10,4 @@ The first line of input.txt should be the number of rows/columns of your board. 
 See example-input.txt for an example.
 
 ## Output
-output will be displayed in the command line
+output will be displayed in the command line. See example-output.txt for an example of the completed board that will be printed in console.
